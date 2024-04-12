@@ -12,9 +12,11 @@
     z-index: 3;
 }
 .logo {
+    background-color: rgb(26, 172, 212);
     object-fit: cover;
     height: 4rem;
     width: 4rem;
+    border-radius: 1rem;
 }
 .desktopMenuListItem {
     margin: 1rem;
@@ -28,7 +30,7 @@
  .desktopMenuBtn {
     height: 3rem;
     width: 10rem;
-    background: white;
+    background: rgb(185, 202, 209);
     color: black;
     border: none;
     display: flex;

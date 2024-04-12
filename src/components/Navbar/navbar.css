@@ -13,7 +13,7 @@
 }
 .logo {
     object-fit: cover;
-    height: 3rem;
+    height: 4rem;
     width: 4rem;
 }
 .desktopMenuListItem {
@@ -27,7 +27,7 @@
  }
  .desktopMenuBtn {
     height: 3rem;
-    width: 12rem;
+    width: 10rem;
     background: white;
     color: black;
     border: none;
@@ -40,6 +40,6 @@
 .desktopMenuImg {
     object-fit: cover;
     height: 2rem;
-    width: 3rem;
-    margin: 1rem;
+    width: 2rem;
+    margin: 0.5rem;
 }
